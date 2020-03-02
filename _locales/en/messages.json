@@ -1,0 +1,108 @@
+{
+   "locale": {
+      "message": "en"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "This extension can not make suggestions from pages like this which have secure content (e.g., http\u003Cb>s\u003C/b>://). See you back on the public web!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "This extension works best on homepages or the main page of most websites.\u003Cp>Try the extension on a website you already love&mdash;test drive it and see the page suggestions on something you know."
+   },
+   "sp_default_title": {
+      "message": "See Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "Discover webpages similar to the page you're currently browsing."
+   },
+   "sp_domain_change_message": {
+      "message": " To change your local domain to www.google.com, \u003Ca id='over' href='#'>click here\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com has been saved as your local domain for retrieving similar pages."
+   },
+   "sp_domain_message": {
+      "message": "The extension will contact $1 to retrieve the list of similar pages. ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Number of pages: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": ""
+   },
+   "sp_options_feedback": {
+      "message": ""
+   },
+   "sp_options_intro": {
+
+      "message": "Search by Webpage allows you to quickly preview and explore other pages that are similar to the one you are browsing --  on the fly!"
+   },
+   "sp_options_legal": {
+      "message": "It uses Google Seach Feautures in a Effective Way.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Team"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Built it, Atlast! Here you see."
+   },
+   "sp_preview_not_available": {
+      "message": "Preview\u003Cbr>not available"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages beta (by Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Unpublished on the Store."
+   },
+   "sp_tld_special_case_text": {
+      "message": "The extension is currently not available for your country/region. Please check back soon."
+   },
+   "sp_zero_results": {
+      "message": "No similar pages found."
+   }
+}

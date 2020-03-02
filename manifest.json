@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_sp_description__",
+   "icons": {
+      "128": "images/sp-128.png",
+      "19": "images/sp-19.png",
+      "32": "images/sp-32.png",
+      "48": "images/sp-48.png"
+   },
+    "manifest_version": 2,
+   "name": "__MSG_sp_title__",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "images/sp-19.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_sp_default_title__"
+   },
+   "permissions": [ "tabs", "https://*/", "http://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.6.2"
+}
